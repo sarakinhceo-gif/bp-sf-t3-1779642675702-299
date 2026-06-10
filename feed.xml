@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 구글 상위노출 대행]]></title>
-  <link>https://sf-t3-1779642675702-299.pages.dev</link>
-  <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 12:52:50 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 12:52:50 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-299.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[서버 웜업]]></title>
+  <link>https://sf-t3-1779642675702-299.vercel.app</link>
+  <description><![CDATA[서버 웜업 - 구글 상위노출 대행 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 18:55:53 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 18:55:53 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-299.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 구글 상위노출 대행 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-299.pages.dev/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-299.pages.dev/</guid>
-      <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 12:52:50 GMT</pubDate>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://sf-t3-1779642675702-299.vercel.app/posts/guide-001-mtayij.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-299.vercel.app/posts/guide-001-mtayij.html</guid>
+      <description><![CDATA[### 포스트 DNA 1bd07a49제목: 창작한 제목 | "자사고 입시 면접 비공식 평가 항목 비교: 진짜 이유 찾기" 아, 진짜... 자사고 입시 면접에서 체크되는 실제 평가 항목은 각 학교마다 다르다고요. 여기에 내신 반영 비율이 들어가는 부분부터 시작해보죠. #]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[구글 상위노출 대행 처음 알아볼 때 실제로 많이 묻는 질문 5가지]]></title>
+      <link>https://sf-t3-1779642675702-299.vercel.app/posts/qa-002-mtayij.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-299.vercel.app/posts/qa-002-mtayij.html</guid>
+      <description><![CDATA[### 포스트 메타정보포스트 기획 테마: 구글 상위노출 대행 처음 알아볼 때 실제로 많이 묻는 질문 5가지 백링크 지시: 본문 내러티브 속에서 다음 링크를 자연스러운 발견으로 녹여라: 리얼 후기 페이지 ## 구체적 니치 콘텐츠 작성 #### 주제2022년 리콜된 특정 ]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
